@@ -28,9 +28,8 @@ Ideal for internal homepages, admin panels, or internal tools that need secure f
 |-------------|-------------|
 | Python | 3.8+ |
 | Flask | Flask web server |
-| msal | For Azure token validation |
-| Azure Tenant ID | Provided by IT |
-| Azure Client ID | Provided by IT |
+| Azure Tenant ID | Obtained via Entra |
+| Azure Client ID | Obtained via Entra |
 | FILE_STORAGE_LOCATION | Local folder path for storage |
 | DEFAULT_ADMIN | Initial system admin username (UPN) |
 
